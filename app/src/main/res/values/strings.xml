@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Practice</string>
-    <string name="help"><u>도움이 필요하세요? | About 단디</u></string>
-
+    <string name="app_name">DANDI</string>
+    <string name="help"><b><u>도움이 필요하세요? | About 단디</u></b></string>
+    <string name="textview6"><b>돌아온걸 환영해요 😄</b></string>
+    <string name="textview7"><h3><b>로그인</b></h3></string>
 </resources>
