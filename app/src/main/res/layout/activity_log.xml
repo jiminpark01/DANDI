@@ -166,7 +166,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="8dp"
-        android:text="@string/home"
+        android:text="@string/beginning"
         android:textColor="#FFFCFC"
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/constraintLayout3"

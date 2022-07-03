@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">DANDI</string>
     <string name="help"><b><u>도움이 필요하세요? | About 단디</u></b></string>
-    <string name="home">&lt;  처음으로</string>
+    <string name="beginning">&lt;  처음으로</string>
     <string name="textview6"><b>돌아온걸 환영해요 😄</b></string>
     <string name="textview7"><h3><b>로그인</b></h3></string>
     <string name="ID"><h3><b>ID</b></h3></string>
@@ -18,4 +18,12 @@
     <string name="first"><h3><b>첫 준비 시작</b></h3></string>
     <string name="howto"><h3><b>어떤 식으로 진행되는지 알고 싶어요.</b></h3></string>
     <string name="skip"><h3><b>건너뛰기  &gt;</b></h3></string>
+    <string name="back">&lt;  이전</string>
+    <string name="next"><h3><b>다음  &gt;</b></h3></string>
+    <string name="setArrival">목표 도착시간 설정</string>
+    <string name="setArrival_text1">일정의 날짜와 목표 도착시간을 설정해주세요.\n실제 목표 시간보다 10분 전으로 설정하길 추천해요.</string>
+    <string name="setArrival_text2">추가로 반복되는 일과인지 설정해주세요.\n해당 일정은 약속관리 탭에서 확인할 수 있어요.</string>
+    <string name="selectSchedule">일정 선택</string>
+    <string name="left">&lt;</string>
+    <string name="right">&gt;</string>
 </resources>
